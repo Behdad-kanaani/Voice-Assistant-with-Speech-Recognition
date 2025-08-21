@@ -134,10 +134,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Screenshots (Optional)
-
-Here you can showcase screenshots of the application interface or the voice assistant in action.
-
----
-
 Thank you for checking out this project! If you have any questions or feedback, feel free to open an issue or reach out via the contact section of this repository.
