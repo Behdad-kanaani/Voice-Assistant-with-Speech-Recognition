@@ -41,7 +41,7 @@ Follow these steps to set up the voice assistant on your machine:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/voice-assistant.git
-````
+``
 
 2. **Install the required dependencies**:
    Create a virtual environment (optional but recommended) and install the necessary Python packages:
